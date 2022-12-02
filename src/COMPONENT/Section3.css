@@ -1,0 +1,52 @@
+.section3 {
+  width: 90%;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+.plancontainer {
+  background-color: whitesmoke;
+  width: 90%;
+  height:80px;
+  margin-left: 20px;
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 16px;
+  margin-top: 30px;
+  margin-top: -1em;
+ 
+
+  /* margin-bottom: 32px; */
+}
+/* .newdiv{
+  background-color: white;
+  margin-top: -1em;
+  color: white;
+} */
+
+
+
+.plancon {
+ display: flex;
+ gap: 20px;
+}
+
+.plancon h3 {
+  color: hsl(223, 47%, 23%);
+}
+
+.ChangeButton {
+  color: hsl(245, 75%, 52%);
+}
+
+.plancontainer img {
+  width: 25%;
+  height: 48px;
+  margin-top: 20px;
+}
+
+
